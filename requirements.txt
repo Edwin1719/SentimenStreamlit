@@ -1,0 +1,7 @@
+pandas==2.2.3 
+transformers== 4.45.1
+streamlit==1.32.0
+openpyxl==3.1.5
+torch==2.4.1
+tensorflow==2.17.0
+st_social_media_links==0.1.3
